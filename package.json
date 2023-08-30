@@ -1,0 +1,27 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "This is the ToDoApp",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubpushpendra/Test.git"
+  },
+  "author": "Chanters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/githubpushpendra/Test/issues"
+  },
+  "homepage": "https://github.com/githubpushpendra/Test#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
